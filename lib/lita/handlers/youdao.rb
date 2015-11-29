@@ -25,7 +25,6 @@ module Lita
                       version: '1.1',
                       q: word)
         hash_res = MultiJson.load(res.body)
-        puts hash_res
         if hash_res['errorCode'] == 0
           format_display hash_res
         else
