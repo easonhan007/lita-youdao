@@ -3,9 +3,9 @@ Gem::Specification.new do |spec|
   spec.version       = "0.1.0"
   spec.authors       = ["easonhan"]
   spec.email         = ["nbkhic@qq.com"]
-  spec.description   = "TODO: Add a description"
-  spec.summary       = "TODO: Add a summary"
-  spec.homepage      = "TODO: Add a homepage"
+  spec.description   = "Translation using youdao api--http://fanyi.youdao.com/openapi"
+  spec.summary       = "Translation using youdao api--http://fanyi.youdao.com/openapi"
+  spec.homepage      = "https://github.com/easonhan007/lita-youdao"
   spec.license       = "TODO: Add a license"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
